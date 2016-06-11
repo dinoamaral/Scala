@@ -11,7 +11,7 @@ object ProducerKafka extends App{
 	  val events = args(1).toInt
 	  
 	  val props2 = new Properties()
-	  props2.put("metadata.broker.list","x64ibm033:9092,x64ibm034:9092,x64ibm035:9092,pxl1big00011:9092")
+	  props2.put("metadata.broker.list","localhost:9092")
 	  props2.put("serializer.class","kafka.serializer.StringEncoder")
 	  props2.put("producer.type","async")
 	  props2.put("request.required.acks","1")
