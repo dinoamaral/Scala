@@ -20,7 +20,7 @@ object ProducerKafka extends App{
           
           val config = new ProducerConfig(props2)
 	  val producer = new Producer[String, String](config)
-	  val msg = Source.fromFile("/home/dino/fichas.txt").getLines.mkString
+	  val msg = Source.fromFile("{#####the complete path from file that you want to send #####}}").getLines.mkString
           val data = new KeyedMessage[String, String](topic, msg);    
 	  
 	  for(nEvents <- Range(0, events)){
