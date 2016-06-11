@@ -1,1 +1,2 @@
-KafkaProducer
+A simple Kafka Producer written in Scala.
+More details about how a Kafka Producer works may be found at: http://kafka.apache.org/documentation.html#producerapi
