@@ -5,8 +5,7 @@ import scala.util.Random
 import scala.io.Source
 
 
-object ProducerKafka extends App{
-		  
+object ProducerKafka extends App{		  
 
 	val command = """
 	 Usage: java -jar [kafka topic to produce data] [amount of time to send]
