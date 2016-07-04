@@ -46,12 +46,3 @@ object ProducerKafka{
         producer.close()
   }
 }
-
-
-//val producer = new KafkaProducer[String, String](props)      
-//        val msg = Source.fromFile(file).getLines.toList
-//        for(nEvents <- 0 until events by 1) {
-//        msg.foreach{ x => 
-//        val data = new ProducerRecord[String, String](topic, x);
-//        producer.send(data);
-//        }
