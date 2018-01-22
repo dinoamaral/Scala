@@ -1,6 +1,6 @@
 ## Here follows our tasks :
 ### Kafka Introduction
-In the link below, there is a simple introduction about Apache Kafka. It is necessary to read it first, to get a brief notion what Apache Kafka may help us in the incomng projects: 
+In the link below, there is a simple introduction about Apache Kafka. It is necessary to read it first, to get a brief notion what Apache Kafka may help us in the futures projects: 
 http://kafka.apache.org/intro
 
 ### The first steps with Apache kafka :
