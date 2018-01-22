@@ -4,7 +4,7 @@ In the link below, there is a simple introduction about Apache Kafka. It is nece
 * http://kafka.apache.org/intro
 
 ### The first steps with Apache kafka :
-http://kafka.apache.org/quickstart
+* http://kafka.apache.org/quickstart
 
 1. Producer Kafka
  2. Consumer Kafka
