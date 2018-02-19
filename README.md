@@ -1,2 +1,2 @@
 # Scala
-Scala programs for Big Data !!!
+Scala programs (Kafka, HBase, ML) for Big Data !!!
