@@ -1,0 +1,30 @@
+products:
+   src/main/scala/ConsProd.scala -> build/classes/main/ConsProd$$anonfun$kafkaConsumer$1$$anonfun$apply$1.class
+   src/main/scala/ConsProd.scala -> build/classes/main/ConsProd$$anonfun$kafkaConsumer$1.class
+   src/main/scala/ConsProd.scala -> build/classes/main/ConsProd.class
+   src/main/scala/ConsProd.scala -> build/classes/main/Log$.class
+   src/main/scala/ConsProd.scala -> build/classes/main/Log.class
+   src/main/scala/RT_Interaction.scala -> build/classes/main/RT_Interaction$$anonfun$main$1.class
+   src/main/scala/RT_Interaction.scala -> build/classes/main/RT_Interaction$.class
+   src/main/scala/RT_Interaction.scala -> build/classes/main/RT_Interaction.class
+binary dependencies:
+   src/main/scala/ConsProd.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/jre/lib/rt.jar
+   src/main/scala/ConsProd.scala -> /Users/dino/.gradle/caches/modules-2/files-2.1/log4j/log4j/1.2.17/5af35056b4d257e4b64b9e8069c0746e8b08629f/log4j-1.2.17.jar
+   src/main/scala/ConsProd.scala -> /Users/dino/.gradle/caches/modules-2/files-2.1/org.apache.kafka/kafka-clients/0.9.0.1/5a8947440a048280a4314949771769bb425c12ce/kafka-clients-0.9.0.1.jar
+   src/main/scala/ConsProd.scala -> /Users/dino/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.11/e283d2b7fde6504f6a86458b1f6af465353907cc/scala-library-2.11.11.jar
+   src/main/scala/RT_Interaction.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/jre/lib/rt.jar
+   src/main/scala/RT_Interaction.scala -> /Users/dino/.gradle/caches/modules-2/files-2.1/log4j/log4j/1.2.17/5af35056b4d257e4b64b9e8069c0746e8b08629f/log4j-1.2.17.jar
+   src/main/scala/RT_Interaction.scala -> /Users/dino/.gradle/caches/modules-2/files-2.1/org.apache.kafka/kafka-clients/0.9.0.1/5a8947440a048280a4314949771769bb425c12ce/kafka-clients-0.9.0.1.jar
+   src/main/scala/RT_Interaction.scala -> /Users/dino/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.11/e283d2b7fde6504f6a86458b1f6af465353907cc/scala-library-2.11.11.jar
+source dependencies:
+   src/main/scala/RT_Interaction.scala -> src/main/scala/ConsProd.scala
+external dependencies:
+class names:
+   src/main/scala/ConsProd.scala -> ConsProd
+   src/main/scala/ConsProd.scala -> ConsProd$$anonfun$kafkaConsumer$1
+   src/main/scala/ConsProd.scala -> ConsProd$$anonfun$kafkaConsumer$1$$anonfun$apply$1
+   src/main/scala/ConsProd.scala -> Log
+   src/main/scala/ConsProd.scala -> Log$
+   src/main/scala/RT_Interaction.scala -> RT_Interaction
+   src/main/scala/RT_Interaction.scala -> RT_Interaction$
+   src/main/scala/RT_Interaction.scala -> RT_Interaction$$anonfun$main$1
