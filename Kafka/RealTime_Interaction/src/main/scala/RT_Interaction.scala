@@ -13,8 +13,8 @@ object RT_Interaction {
     Log.logger.info("#"*50)
     Log.logger.info("===>>> Propriedades do CONSUMER inicializadas")
     Log.logger.info("===>>> Iniciando a Coleta")
-    val topic = "big.taa"
-    val topic2 = "big.vip"
+    val topic = "b2t.in"
+    val topic2 = "b2t.out"
     Log.logger.info("===>>> Consuming data from topic " +'"'+ topic +'"')
     Log.logger.info("===>>> Transforming JSON to CSV")
     Log.logger.info("===>>> Showing Consumer properties")
