@@ -14,3 +14,9 @@
         
 ## 5 - HBase Tutorial
         https://www.tutorialspoint.com/hbase/index.htm
+        
+## Arquivo hbaseGetRK.scala
+Realiza uma consulta no HBase com uma Row Key como argumento. A consulta recupera todos os resultados na qual a Rowkey começa com o argumento. Exemplo : arqumento-0 até argumento-9.
+
+## Arquivo hbasePut.scala
+Insere informações no HBase.
